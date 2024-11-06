@@ -1,4 +1,4 @@
-"""
+
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
@@ -35,7 +35,7 @@ print("Lista original:", numeros)
 # Ordenar la lista usando el método de Inserción
 numeros_ordenados = insertion_sort(numeros)
 print("Lista ordenada:", numeros_ordenados)
-"""
+
 
 def selection_sort(arr):
     n = len(arr)
